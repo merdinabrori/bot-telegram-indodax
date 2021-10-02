@@ -1,5 +1,5 @@
 # bot-telegram-indodax
-Aplikasi web menampilkan data dari indodax yang tersambung dengan bot telegram.
+Bot telegram yang menampilkan data dari indodax.
 Aplikasi web ini menggunakan metode webhook untuk terhubung dengan telegram.
 Untuk melakukan webhook cukup ketik pada browser 
 https://api.telegram.org/bot[token_tanpa_kurung_siku]/setWebhook?url=https://www.contoh.com/bot.php
