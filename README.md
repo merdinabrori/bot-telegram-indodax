@@ -9,3 +9,5 @@ Token bot dapat dilihat pada @BotFather, tentunya setelah membuat bot telegram t
 
 Alternatif lain untuk menggunakan metode webhook tanpa menggunakan server hosting adalah dengan lokal server (seperti XAMPP dan MAMPP) dengan perpaduan NGROK. Turorial webhook dengan server lokal : 
 https://www.youtube.com/watch?v=WTABjuxB7zM
+
+### Referensi : https://dicoffeean.com/bot-telegram-webhook/
